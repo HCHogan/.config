@@ -14,6 +14,12 @@ public:
     typedef int bar;
 };
 
+template<class T>
+int mycompare(T a,T b)
+{
+    return a<b;
+}
+
 int myadd(int a,int b)
 {
     return a+b;
@@ -25,4 +31,5 @@ int main()
     func01(b);
     return 0;
 }
+
 

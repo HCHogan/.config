@@ -79,7 +79,15 @@ set updatetime=300
 "set signcolumn=yes
 set hidden
 inoremap <silent><expr> <c-j> coc#refresh()
-
+nmap <silent> <LEADER>- <Plug>(coc-diagnostic-prev)
+nmap <silent> <LEADER>= <plug>(coc-diagnostic-next)
+nmap <silent> gd <Plug>(coc-definition)
+nmap <silent> gy <Plug>(coc-type-definition)
+nmap <silent> gi <Plug>(coc-implementation)
+nmap <silent> gr <Plug>(coc-references)
+nmap <LEADER>rn <Plug>(coc-rename)
+nnoremap <silent> <LEADER>h :call <SID>show_documentation()<CR>
+autocmd CursorHold * silent call CocActionAsync('highlight')
 "  =========
 
 color snazzy
