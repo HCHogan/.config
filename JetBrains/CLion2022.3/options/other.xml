@@ -1,0 +1,33 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.75" />
+    <option name="fontSize" value="25.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "CL-223.8214.51",
+    "evlsprt3.223": "26",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "22.75",
+    "fontSizeToResetEditor": "22.75",
+    "input.method.disabler.muted": "true",
+    "previousColorScheme": "_@user_Darcula",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

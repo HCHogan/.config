@@ -1,0 +1,14 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=SettingsBase
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABZMAAAPTAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+eDP-1 Height 2458x1536 eDP-1=979
+eDP-1 Width 2458x1536 eDP-1=1427
+eDP-1 XPosition 2458x1536 eDP-1=217
+eDP-1 YPosition 2458x1536 eDP-1=367
