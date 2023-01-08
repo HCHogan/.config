@@ -14,6 +14,11 @@ public:
     typedef int bar;
 };
 
+int myadd(int a,int b)
+{
+    return a+b;
+}
+
 int main()
 {
     B b;
