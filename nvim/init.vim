@@ -6,8 +6,8 @@ set wrap
 set showcmd
 set wildmenu
 set relativenumber
- 
 set hlsearch
+
 exec "nohlsearch"
 set incsearch
 set ignorecase
